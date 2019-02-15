@@ -1,1 +1,1 @@
-git push paullinck-starwarsclassgit   master
+git push paullinck-starwarsclass  master
